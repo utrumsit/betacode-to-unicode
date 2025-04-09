@@ -13,19 +13,19 @@ Convert [Betacode](https://stephanus.tlg.uci.edu/encoding.php) Greek entry, whic
 ### LazyVim
 Add to your `lazy.lua`:
 ```lua
-{ "byzkarl/betacode-to-unicode" }
+{ "utrumsit/betacode-to-unicode" }
 ```
 
 
 ### Packer
 ```lua
-use "byzkarl/betacode-to-unicode"
+use "utrumsit/betacode-to-unicode"
 ```
 
 ### Vim-Plug
 
 ```lua
-Plug 'yourusername/betacode-to-unicode'
+Plug 'utrumsit/betacode-to-unicode'
 ```
 
 ## Usage
